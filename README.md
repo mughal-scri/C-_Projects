@@ -5,5 +5,5 @@ Whenever I Find out about a new concept, I just write it down somewhere ASAP and
 Where they can be used practically and how I implement them in different scenarios
 Plus, By the time after 2025, you find this repository, means I was learing **Fundamentals of Programming**
 Make sure to check out some of the codes that I had done personally 
-plus I'm working on a end semester project in which I'm console based shopping system and the Inventory management system. **Like Online Store But console based**
+plus I'm working on a end semester project in which I'm  building console based shopping system and the Inventory management system. **Like Online Store But console based**
 I'll make sure that it'll will be uploaded when its done
